@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Club SilverCare d’AleVia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .checkmark {
+            color: green;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Club SilverCare d’Alevia</h1>
+<h2>Page internet de présentation</h2>
+
+<h3>Notre Constat :</h3>
+<p>D'ici 2050, 2 milliards de personnes auront plus de 60 ans. Cette transition démographique, souvent éclipsée par d'autres débats, redéfinit notre monde. En France, un tiers de la population appartiendra à cette tranche d'âge d'ici 2035. Face à cette réalité, le gouvernement français a tenté de prendre des mesures, mais une décennie plus tard, le bilan est mitigé.</p>
+<p>La raison ? Un manque de diversité dans les consultations gouvernementales. Les décideurs ont tendance à privilégier les voix de quelques grandes entreprises et organisations traditionnelles, laissant de côté une multitude d'autres acteurs essentiels de la Silver économie. Ce monopole de représentation crée un déséquilibre dans la prise de décision publique, empêchant une véritable concertation et une compréhension complète des besoins et des défis du secteur.</p>
+<p>C'est sur la base de ce constat alarmant que l’idée du Club SilverCare d’Alevia a émergé.</p>
+
+<h3>Notre vision :</h3>
+<p>Nous croyons fermement en une vision globale et positive du Grand âge. En nous appuyant sur la philosophie du One Health, nous proposons une triple approche du vieillissement :</p>
+<ul>
+    <li>Inclusive et intergénérationnelle : Chaque voix compte. La silver économie est un univers riche en opportunités pour tous.</li>
+    <li>Préventive : Adoptons une approche préventive pour protéger et améliorer la qualité de vie des seniors.</li>
+    <li>Éthique : L’éthique est notre boussole. Nous nous engageons à promouvoir une silver économie qui place l’humain au centre de la société.</li>
+</ul>
+
+<h3>Pour Qui ?</h3>
+<p>Vous êtes innovant, visionnaire et passionné par les enjeux du Grand âge ? Rejoignez une communauté grandissante d’acteurs dynamiques de la Silver économie. Que vous soyez une startup en plein essor, une association engagée, un professionnel du secteur ou même un décideur politique, le Club SilverCare d’AleVia est votre espace.</p>
+<p>Nous sommes fiers d’accueillir des membres de tous horizons, des jeunes générations aux experts établis, tous unis par une vision commune. En faisant partie de notre club, non seulement vous vous positionnez à la pointe de la Silver économie, mais vous rejoignez également un mouvement influent qui façonne l’avenir de la France en tant que leader dans ce secteur.</p>
+<p>Ne manquez pas cette opportunité unique de collaborer, d’apprendre et de grandir au sein d’une communauté dédiée. Car ensemble, nous sommes plus forts, plus inspirés et prêts à redéfinir le paysage de la Silver économie en France.</p>
+
+<h3>Témoignages</h3>
+<p>Liste de témoignages</p>
+
+<h3>Événements</h3>
+<p>Liste des événements passés et à venir</p>
+
+<h3>Rejoignez-Nous : Vos Avantages & Nos ambitions</h3>
+<ul>
+    <li><span class="checkmark">✔️</span> Influencer les Politiques Publiques : Je peux directement influencer les politiques publiques liées à la Silver économie, que ce soit en participant à des événements avec des décideurs publics ou en participant à la rédaction de documents stratégiques. Ma voix et mon expertise seront essentielles pour ancrer une vision inclusive et intergénérationnelle, préventive et éthique du Grand âge.</li>
+    <li><span class="checkmark">✔️</span> Accéder à une Expertise Unique : J’ai accès à un carrefour d’expertises unique et je participe activement à une veille régulière sur les actions des acteurs politiques et l’évolution des politiques publiques.</li>
+    <li><span class="checkmark">✔️</span> Élargir Mon Réseau : Je rejoins un réseau de décideurs, d’experts et d’acteurs clés de la Silver économie me permettant de renforcer mon positionnement et d’accroître ma visibilité.</li>
+    <li><span class="checkmark">✔️</span> Participer à des Événements Clés de la Silver économie : Je joue un rôle actif dans les tables rondes, séminaires et colloques organisés par le club, favorisant des débats constructifs et la co-construction de solutions innovantes.</li>
+    <li><span class="checkmark">✔️</span> Me Former : Je profite d’opportunités de formation exclusives pour renforcer mes compétences et mieux comprendre les besoins du Grand âge.</li>
+</ul>
+
+<button>Rejoignez-nous maintenant et façonnez l’avenir de la Silver économie en France !</button>
+
+</body>
+</html>
